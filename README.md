@@ -1,4 +1,4 @@
-<h1>Projeto em criação com NextJS, Firebase e Email da google</h1>
+<h1>Projeto criado com NextJS, Firebase e Email da google</h1>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
